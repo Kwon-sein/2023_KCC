@@ -2,6 +2,8 @@
 
 This is the code of the **Korea Computer Congress 2023** (KCC 2023) paper 
 
+**Please check the 'testing_tpcc.ipynb & testing_twitter.ipynb'**
+
 **'A Study about Search Space of Knob Range Reduction for Database Tuning'.**
 
 This study proposes a method to reduce the search space as an optimization method that can improve the performance of database parameters (knobs).
